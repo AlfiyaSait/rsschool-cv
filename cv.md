@@ -51,24 +51,24 @@ if ( isset($_POST['action1']) && $_POST['action1'] === "Удалить") {
    
 
 ## Experience
-**Creating a website [stepansviridov.ru](https://stepansviridov.ru/)**
-**Freelancing and training (Training project)**
-*04/2010 — 12/2022*
+**Creating a website [stepansviridov.ru](https://stepansviridov.ru/)**  
+**Freelancing and training (Training project)**  
+*04/2010 — 12/2022*  
 - Web Developing;
 - Creating a website using the MVC pattern;
 - HTML, PHP, JavaScript-coding and creating CSS style sheet;
 - Site testing;
 - Creating a database;
-- Organization of loading into the database and unloading from the database to the page;
+- Organization of loading into the database and unloading from the database to the website page;
 - Adaptation to mobile devices;
 - Domain registration;
 - Placement on the hosting;
 - Maintaining the website.
 
 
-**Website developer and administrator**
-**Online store Slingozavrik**
-*10/2010 – 04/2022*
+**Website developer and administrator**  
+**Online store Slingozavrik**  
+*10/2010 – 04/2022*  
 - Creating an online store portal using CMS Webasyst Shop-Script;
 - Domain registration and adding to search engines; 
 - HTML coding of information pages of the site; 
@@ -80,9 +80,9 @@ if ( isset($_POST['action1']) && $_POST['action1'] === "Удалить") {
 - Writing articles and product descriptions for goods of online store.
 
 
-**Website administrator (Administrator of the distance learning system)**
-**BANK URALSIB**
-*10/2007 – 05/2009*
+**Website administrator (Administrator of the distance learning system)**  
+**BANK URALSIB**  
+*10/2007 – 05/2009*  
 - Administration of the educational portal and the WebTutor distance learning system;
 - Preparation/ modification and placement educational content on the site.
 - Organization of distance learning for employees of the URALSIB Financial Corporation;
@@ -91,30 +91,27 @@ if ( isset($_POST['action1']) && $_POST['action1'] === "Удалить") {
 - Writing documentation, User and Administrator Instructions.
 
 
-**Web-designer**
-**LLC "ArtStyleGroup"**
-*04/2007 – 07/2007* (project work)
+**Web-designer**  
+**LLC "ArtStyleGroup"**  
+*04/2007 – 07/2007* (project work)  
 - Creating visuals for website pages;
 - Preparation of graphic images for posting on the site;
 - Writing technical specifications to layout designers;
 - Participation in website support projects.
 
 
-|
-**Technical writer**
-**LLC “DevPro”s (Averta Service company)**
-*09/2004 – 04/2007*
+**Technical writer**  
+**LLC “DevPro”s (Averta Service company)**  
+*09/2004 – 04/2007*  
 -	Content preparation and management, HTML coding;
 - 	Maintaining companies websites;
 -	Writing technical documentation for the software;
 -	Manual functional testing of the software (Lotus Notes systems and Web applications);
 
 
-
 ## Languages
 -	Russian - Native.
 -	English – Advanced. B2 level - FCE (First Certificate in English)
-
 
 
 ## Certificates
