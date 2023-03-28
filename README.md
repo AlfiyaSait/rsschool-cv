@@ -1,2 +1,2 @@
 # rsschool-cv
-CV
+https://alfiyasait.github.io/rsschool-cv/
